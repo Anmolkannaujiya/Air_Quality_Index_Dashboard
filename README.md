@@ -6,6 +6,9 @@ visualizing real-time air pollution data across Indian cities and states. 🌫�
  Using the "Real Time Air Quality Index" dataset from the Government of India’s open data platform, 
  I transformed raw data into a dynamic and insightful Excel dashboard. The aim was to analyze air pollution patterns, 
  identify the most and least polluted areas, and break down pollutant contributions with intuitive visuals.
+ 
+ ![image](https://github.com/user-attachments/assets/3d94770f-4e9b-4ff0-8858-932bc2637fe5)
+
 
 📌 Key Features of the Dashboard:
 🏙️ City & State Filters for tailored insights
