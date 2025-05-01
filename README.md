@@ -19,8 +19,13 @@ visualizing real-time air pollution data across Indian cities and states. 🌫�
 📈 City-wise AQI Distribution for comparative analysis
 
 ⚙️ Excel Tools & Techniques Used:
+
 Pivot Tables & Pivot Charts
+
 Slicers for real-time filtering
+
 Conditional formatting
+
 Data validation and dynamic charting
+
 Geographic visualization using map charts
